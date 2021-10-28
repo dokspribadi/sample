@@ -1,4 +1,1 @@
-https://drive.google.com/file/d/1-3AyrDSt9H8zz4g2grJv9h6qu1KwTA4i/view
-
-
-https://developers.redhat.com/products/eap/download
+https://developers.redhat.com/content-gateway/file/jboss-eap-6.4.0.GA.zip
